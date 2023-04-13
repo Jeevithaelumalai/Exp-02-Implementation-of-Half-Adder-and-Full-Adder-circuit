@@ -53,6 +53,7 @@ RTL realization
 
 ### TIMING DIAGRAM
 ### HALF ADDER:
+![half add](https://user-images.githubusercontent.com/118708245/231670748-ea858d29-72b4-45f8-bfff-5808e0da2a9c.png)
 
 ### FULL ADDER:
 
