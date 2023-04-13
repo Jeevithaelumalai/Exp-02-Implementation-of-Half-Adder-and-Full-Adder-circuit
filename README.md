@@ -53,6 +53,7 @@ RTL realization
 
 ### TIMING DIAGRAM
 ### HALF ADDER:
+
 ### FULL ADDER:
 
 ### TRUTH TABLE 
