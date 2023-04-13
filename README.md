@@ -46,8 +46,14 @@ RTL realization
 
 ### Output:
 ### RTL
-### TIMING DIAGRAM
+### HALF ADDER:
+![halfadd](https://user-images.githubusercontent.com/118708245/231667707-164af9d3-eeb3-42a8-8958-89bb2aff3c39.png)
+### FULL ADDER:
+![full add](https://user-images.githubusercontent.com/118708245/231668051-7f1ee89b-03e2-4c1f-8c16-900ed0488836.png)
 
+### TIMING DIAGRAM
+### HALF ADDER:
+### FULL ADDER:
 
 ### TRUTH TABLE 
 
