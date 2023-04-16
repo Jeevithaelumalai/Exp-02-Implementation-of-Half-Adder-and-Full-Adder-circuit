@@ -53,10 +53,18 @@ RTL realization
 
 ### TIMING DIAGRAM
 ### HALF ADDER:
+
 ![half add](https://user-images.githubusercontent.com/118708245/231670748-ea858d29-72b4-45f8-bfff-5808e0da2a9c.png)
 
 ### FULL ADDER:
 
-### TRUTH TABLE 
+![Screenshot 2023-04-16 223113](https://user-images.githubusercontent.com/118708245/232328362-297324fe-4718-4148-bf1b-b4c7f84f328b.png)
 
+### TRUTH TABLE:
+# HALFADDER:
+![Screenshot 2023-04-16 223219](https://user-images.githubusercontent.com/118708245/232328455-a8309e5e-cd58-4ad3-9b77-ee82bc807471.png)
+# FULL ADDER:
+![Screenshot 2023-04-16 223321](https://user-images.githubusercontent.com/118708245/232328494-65fb5f74-e38f-4569-b400-8a7da94cbdde.png)
+ 
 ### Result:
+Thus the Implementation of Half Adder and Full Adder circuit are studied and the truth table for different logic gates are verified.
